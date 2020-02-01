@@ -1,6 +1,6 @@
 # Gary nguyen
 # CTD Project
-## A)Link To the Code file: 
+## A) Link To the Code file: 
 [The Code](https://colab.research.google.com/drive/1guAe46VcQlW9cUdzwsCmEUx03yDrmLuo)
 ## B) Problem Statement:
 ![](Problem.jpg)
