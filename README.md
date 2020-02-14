@@ -17,7 +17,7 @@
 
 ![](P1W1.jpg)
 
-	There are 9 dives on this date.
+	There are 1 dives on this date.
 
 #### Speed of Sound vs Depth
 
@@ -71,13 +71,13 @@ The Average Speed of Sound is 1490 m/s
 
 ![](P3S1.jpg)
 
-	There is 2 dive on this date.
+	There is 4 dive on this date.
 	
 - Winter
 
 ![](P3W1.jpg)
 
-	There are 2 dives on this date.
+	There are 12 dives on this date.
 
 #### Speed of Sound vs Depth
 
